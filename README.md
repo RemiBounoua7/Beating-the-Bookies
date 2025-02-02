@@ -1,2 +1,3 @@
 # Beating-the-Bookies
-Data analysis and predictive model for betting strategies in football games
+
+This repository contains a notebook developping a methodology for data analysis and predictive modeling for betting strategies in football games.
